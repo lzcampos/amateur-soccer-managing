@@ -1,4 +1,4 @@
-# app-pelada
+# amateur-soccer-managing
 
 ## Project setup
 ```
